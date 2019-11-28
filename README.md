@@ -8,6 +8,6 @@ Downstream Storage System (RDBMS) and load it to database.
 
 # Web app Screenshots
 
-[](capture.PNG)
+[](Capture.PNG)
 
-[](capture2.PNG)
+[](Capture2.PNG)
